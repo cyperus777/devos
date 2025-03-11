@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "x86.h": "c",
+        "stdbool.h": "c",
+        "console.h": "c",
+        "irq.h": "c",
+        "defs.h": "c",
+        "pci.h": "c"
+    }
+}
