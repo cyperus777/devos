@@ -1,5 +1,5 @@
 # devos
 
-make
-make run
-windows使用openvpn添加tap网卡
+make  
+make run  
+windows平台使用openvpn添加tap网卡
